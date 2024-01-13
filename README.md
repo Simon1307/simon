@@ -7,8 +7,8 @@ I have diligently overseen project coordination and delivery in the role of a Sc
 In addition to my extensive professional endeavors, I am currently contributing to the field by sharing my knowledge and expertise as an instructor for a Data Science Bootcamp at Miami Dade College, promoting the next generation of data science enthusiasts.
 
 ### Notable Achievements
-Patented innovations in loss weighting strategies for neural networks
-Real-time monitoring system for CNC machine tool data using deep learning
+- Patented innovations in loss weighting strategies for neural networks
+- Real-time monitoring system for CNC machine tool data using deep learning
 
 #### Personal
 I hold citizenship for the United States of America and Germany (dual citizenship). I was raised in Germany and am currently residing in Miami, FL, USA.
