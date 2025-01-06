@@ -1,19 +1,3 @@
-# 💫 About Me:
-#### Professional
-As an experienced Machine Learning Engineer, I have contributed my expertise to various projects within intercultural teams ranging from 3 to 10 members.
-
-I have diligently overseen project coordination and delivery in the role of a Scrum Master, ensuring the seamless functioning of collaborative efforts.
-
-In addition to my extensive professional endeavors, I am currently contributing to the field by sharing my knowledge and expertise as an instructor for a Data Science Bootcamp at Miami Dade College, promoting the next generation of data science enthusiasts.
-
-### Notable Achievements
-- Patented innovations in loss weighting strategies for neural networks
-- Real-time monitoring system for CNC machine tool data using deep learning
-
-#### Personal
-I hold citizenship for the United States of America and Germany (dual citizenship). I was raised in Germany and am currently residing in Miami, FL, USA.
-
-
 ## 🌐 Socials and Portfolio:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-kutsche) 
 
